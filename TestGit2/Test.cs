@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestGit2
 {
-    public class Class1
+    public class Test
     {
     }
 }
